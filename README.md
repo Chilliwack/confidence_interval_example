@@ -1,6 +1,6 @@
 # confidence_interval_example
 
-**confidence_interval_example** is an example of how to:
+**confidence_interval_example** is an example using world coffee production data of how to:
 
 1. Generate confidence intervals using bootstrapping
 
